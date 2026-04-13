@@ -1,4 +1,5 @@
 name: Update Services
+# TODO: change to run after images are built
 on:
   workflow_dispatch:
 
